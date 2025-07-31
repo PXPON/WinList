@@ -1,0 +1,2 @@
+7/29 - I successfully made Markdown versions of my resume.
+7/30 - I started building a Smart Factory Detector using PyTorch
